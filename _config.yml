@@ -1,5 +1,5 @@
 # Site settings 配置站点
-title: '不了了之的独立博客'
+title: 'buleak的独立博客'
 description: '前端小白'
 keyword: 'vue.js javascript node.js(还没学）'
 url: 'https://buleak.github.io/' 
@@ -17,10 +17,10 @@ footer:
   since: 2017
 
 # Author 配置博主信息
-author: '不了了之'
+author: 'buleak'
 nickname: '知了'
 bio: '前端小白'
-avatar: '/assets/img/profile.png'
+avatar: '/assets/img/zhiliao.jpg'
 
 # Search
 search: true
@@ -49,9 +49,9 @@ postPatterns: 'circuitBoard'
 # SNS settings 配置社交网站
 # url: email, weibo, zhihu, twitter, instagram, juejin, github, douban, facebook, dribble, uicn, jianshu, medium, linkedin
 sns:
-  weibo: '//weibo.com/lovecolcol'
-  juejin: '//juejin.im/user/57a6f434165abd006159b4cc'
-  instagram: '//www.instagram.com/steveliaocn'
+#  weibo: '//weibo.com/lovecolcol'
+#  juejin: '//juejin.im/user/57a6f434165abd006159b4cc'
+#  instagram: '//www.instagram.com/steveliaocn'
   github: '//github.com/kaeyleo'
 
 # Tags 设置标签
